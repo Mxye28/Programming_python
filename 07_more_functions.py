@@ -16,4 +16,5 @@ print(type(chuchuwa))
 chuchuwa("Mano hacia el frente")
 chuchuwa("Hombro hacia atrás")
 
-chuchuwa(42)
+# Las funciones deben llamarse o ejecutarse con los mismo parametros que se definió
+chuchuwa("lengua afuera")
